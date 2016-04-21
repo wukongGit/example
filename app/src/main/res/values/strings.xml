@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidDevelopUtils</string>
+    <string name="action_settings">PackageScaner</string>
+    <string name="action_location">Location Monitor</string>
+    <string name="custom_installed">Custom Installed</string>
+    <string name="system_installed">System Apps</string>
+</resources>
